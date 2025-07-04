@@ -18,11 +18,9 @@ Currently, I am exploring various applications of machine learning and deep lear
 
 # Publications
 
-**MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
-Kunyu Zhang, Qiang Li, Shujian Yu  
-*MICCAI 2025*  
+**[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
 [[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)
-
+**Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
 
