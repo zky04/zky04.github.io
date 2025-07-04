@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kunyu Zhang"
+title: "Kunyu Zhang - Homepage"
 author_profile: true
 redirect_from: 
   - /about/
