@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024-08-clinical-expert-uncertainty
 excerpt: 'We propose a clinical expert uncertainty-aware benchmark and label smoothing method to address label noise in medical image datasets created from clinical notes.'
-date: 2024-08
-venue: 'arXiv preprint'
+date: 2025-08
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2508.02495'
 codeurl: 'https://github.com/zky04/Medical-Noisy-Label-Dataset'
 ---

@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 # News
+- **[2025.8]** [Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning](https://arxiv.org/pdf/2508.02495) has been submitted to arXiv!
 - **[2025.6]** [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](http://arxiv.org/abs/2507.02847) has been accepted by MICCAI 2025!
 
 
