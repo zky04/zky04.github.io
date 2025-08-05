@@ -22,11 +22,11 @@ repository               : "zky04/zky04.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kunyu Zhang"
   bio              : "Aspiring researcher passionate about applying AI to advance healthcare and medical innovation"
   email            : "kunyu.zky@gmail.com" 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AH8HC4z2t5OctmMxx62jX2fHhAjW-2nwFtQadF9wwX0K_Yf1KwA6TDk-1T97rHUC_g8vATaOwfdTDw6II2cVNlXwKhw&user=Ep5vttEAAAAJ"
   orcid            : ""
   github           : "zky04"
 
