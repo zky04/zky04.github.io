@@ -15,9 +15,14 @@ redirect_from:
 # About Me
 I am an aspiring researcher passionate about applying artificial intelligence to advance healthcare and medical innovation. My research interests focus on leveraging AI technologies to solve complex medical problems and improve patient outcomes.
 
-Currently, I am exploring various applications of machine learning and deep learning in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment.
+Currently, I am exploring various applications of machine learning and deep learning in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment. Besides, I am committed to exploring methods for applying deep learning across various disciplines and hope to find suitable approaches to expand the application scope of deep learning, including but not limited to medicine.
 
 # Publications
+
+**[arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning**  
+[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)
+**Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
+We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
 [[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)
