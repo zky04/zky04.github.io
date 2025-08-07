@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Global font size adjustment
+html {
+    font-size: 1.25em;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

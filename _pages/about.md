@@ -5,16 +5,15 @@ author_profile: true
 permalink: /
 ---
 
-# News
-- **[2025.8]** [Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning](https://arxiv.org/pdf/2508.02495) has been submitted to arXiv!
-- **[2025.6]** [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](http://arxiv.org/abs/2507.02847) has been accepted by MICCAI 2025!
+# 🔥 News
+- **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](http://arxiv.org/abs/2507.02847) has been accepted by MICCAI 2025!
 
-# About Me
-I am an aspiring researcher passionate about applying artificial intelligence to advance healthcare and medical innovation. My research interests focus on leveraging AI technologies to solve complex medical problems and improve patient outcomes.
+# 👨‍🔬 About Me
+I am an aspiring researcher passionate about harnessing deep learning to drive innovation in healthcare and medicine. My work focuses on applying deep learning to address complex medical challenges and improve patient outcomes.
 
-Currently, I am exploring various applications of machine learning and deep learning in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment. Besides, I am committed to exploring methods for applying deep learning across various disciplines and hope to find suitable approaches to expand the application scope of deep learning, including but not limited to medicine.
+Currently, I am exploring a range of AI applications in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment. Beyond medicine, I am also committed to developing flexible, efficient, and generalizable deep learning methodologies applicable across diverse scientific domains.
 
-# Publications
+# 📚 Publications
 
 **[arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning**  
 [[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)
@@ -26,9 +25,9 @@ We address label noise in medical image datasets caused by clinical expert uncer
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
-# Research Interests
-- **Medical AI**: Applying artificial intelligence to clinical diagnosis and treatment
-- **Healthcare Technology**: Developing innovative solutions for medical challenges  
-- **Machine Learning**: Exploring ML applications in biomedical research
-- **Clinical Decision Support**: Building AI systems to assist healthcare professionals
-- **Medical Image Analysis**: Using computer vision for medical imaging applications 
+# 🔬 Research Interests
+- **AI in Biomedicine**:  Applying artificial intelligence across biomedical domains, including but not limited to neuroscience, medical imaging, clinical diagnosis, and prognosis
+
+- **Machine Learning for Health**: Investigating the adaptability and limitations of machine learning methods in biomedical research
+
+- **Generalizable AI Methodologies**: Exploring the theoretical foundations for extending AI from biomedical applications to other scientific disciplines through flexible, low-cost, and efficient deep learning frameworks

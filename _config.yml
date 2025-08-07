@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kunyu Zhang"
-description              : "Aspiring researcher passionate about applying artificial intelligence to advance healthcare and medical innovation."
+description              : "An aspiring researcher exploring the application of artificial intelligence to advance medicine. I am also interested in developing a flexible, low-cost, and efficient deep learning framework that can be applied across multiple disciplines."
 repository               : "zky04/zky04.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Kunyu Zhang"
   avatar           : "images/avatar.jpg"
   bio              : "Aspiring researcher in Medical AI"
-  location         : "China"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ep5vttEAAAAJ"
