@@ -2,7 +2,7 @@
 title: "Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning"
 collection: publications
 category: conferences
-permalink: /publication/2024-08-clinical-expert-uncertainty
+permalink: /publication/2025-08-clinical-expert-uncertainty
 excerpt: 'We propose a clinical expert uncertainty-aware benchmark and label smoothing method to address label noise in medical image datasets created from clinical notes.'
 date: 2025-08
 venue: 'arXiv'

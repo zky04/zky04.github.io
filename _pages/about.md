@@ -16,12 +16,12 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 # 📚 Publications
 
 **[arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning**  
-[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)
+[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)  
 **Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
-[[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)
+[[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)  
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 

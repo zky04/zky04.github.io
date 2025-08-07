@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kunyu Zhang"
   avatar           : "images/avatar.jpg"
-  bio              : "Aspiring researcher in Medical AI"
+  bio              : "Aspiring researcher harnessing deep learning for healthcare innovation"
   location         :
   employer         :
   pubmed           : 
@@ -117,6 +117,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name/
+
 # Defaults
 defaults:
   # _pages
@@ -126,6 +132,17 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 
 # Sass/SCSS
