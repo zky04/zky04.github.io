@@ -40,9 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// Global font size adjustment
-html {
+// Font size adjustment for main content only (exclude sidebar)
+.page__content {
     font-size: 1.25em;
+}
+
+// Keep sidebar at original font size
+.sidebar {
+    font-size: 1rem;
 }
 
 .paper-box {
