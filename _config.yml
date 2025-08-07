@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kunyu Zhang"
-description              : "An aspiring researcher exploring the application of artificial intelligence to advance medicine. I am also interested in developing a flexible, low-cost, and efficient deep learning framework that can be applied across multiple disciplines."
+description              : "I am also interested in developing a flexible, low-cost, and efficient deep learning framework that can be applied across multiple disciplines."
 repository               : "zky04/zky04.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kunyu Zhang"
   avatar           : "images/avatar.jpg"
-  bio              : "Deep Learning & Medical AI"
+  bio              : "Deep Learning, AI4Neuroscience and AI4Health"
   location         :
   employer         :
   pubmed           : 
