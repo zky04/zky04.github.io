@@ -1,0 +1,41 @@
+name: Sync Reminder
+
+on:
+  push:
+    paths:
+      - '_pages/about.md'
+      - '_config.yml'
+      - '_publications/*.md'
+
+jobs:
+  sync-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create sync reminder issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const title = '🔄 Sync Reminder: Update README.md';
+            const body = `
+            ## Files Changed
+            The following key files have been updated and may require README.md synchronization:
+            
+            ${{ github.event.head_commit.modified.join('\n- ') }}
+            
+            ## Action Required
+            Please review and update README.md to match any changes in:
+            - Personal description
+            - Research interests  
+            - Publications
+            - Contact information
+            
+            **Modified in commit:** ${{ github.event.head_commit.message }}
+            `;
+            
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: title,
+              body: body,
+              labels: ['sync', 'documentation']
+            });

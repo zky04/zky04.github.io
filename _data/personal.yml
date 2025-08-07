@@ -1,0 +1,20 @@
+# Personal Information - Single source of truth
+name: "Kunyu Zhang"
+bio_short: "Deep Learning & Medical AI"
+bio_long: "I am an aspiring researcher passionate about harnessing deep learning to drive innovation in healthcare and medicine. My work focuses on applying deep learning to address complex medical challenges and improve patient outcomes."
+
+research_interests:
+  - title: "AI in Biomedicine"
+    description: "Applying artificial intelligence across biomedical domains, including but not limited to neuroscience, medical imaging, clinical diagnosis, and prognosis"
+  
+  - title: "Machine Learning for Health"
+    description: "Investigating the adaptability and limitations of machine learning methods in biomedical research"
+  
+  - title: "Generalizable AI Methodologies"
+    description: "Exploring the theoretical foundations for extending AI from biomedical applications to other scientific disciplines through flexible, low-cost, and efficient deep learning frameworks"
+
+contact:
+  email: "kunyu.zky@gmail.com"
+  github: "zky04"
+  scholar_url: "https://scholar.google.com/citations?hl=en&user=Ep5vttEAAAAJ"
+  homepage: "https://zky04.github.io/"

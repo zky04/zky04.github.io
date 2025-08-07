@@ -1,72 +1,71 @@
 
 <h1 align="center">
-AcadHomepage
+Kunyu Zhang
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://zky04.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?hl=en&user=Ep5vttEAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-zky04-black)](https://github.com/zky04)
+[![中文文档](https://img.shields.io/badge/文档-中文-red)](./README_zh.md)
+
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<p align="center">Deep Learning & Medical AI Researcher</p>
 
 <p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
+    <strong><a href="https://zky04.github.io/">🌐 Visit My Homepage</a></strong>
 </p>
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+## About Me
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+I am an aspiring researcher passionate about harnessing deep learning to drive innovation in healthcare and medicine. My work focuses on applying deep learning to address complex medical challenges and improve patient outcomes.
 
-## Quick Start
+Currently, I am exploring a range of AI applications in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment. Beyond medicine, I am also committed to developing flexible, efficient, and generalizable deep learning methodologies applicable across diverse scientific domains.
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+## Research Interests
 
-## Debug Locally
+- **AI in Biomedicine**: Applying artificial intelligence across biomedical domains, including but not limited to neuroscience, medical imaging, clinical diagnosis, and prognosis
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+- **Machine Learning for Health**: Investigating the adaptability and limitations of machine learning methods in biomedical research
 
-# Acknowledges
+- **Generalizable AI Methodologies**: Exploring the theoretical foundations for extending AI from biomedical applications to other scientific disciplines through flexible, low-cost, and efficient deep learning frameworks
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+## Publications
+
+### [MICCAI 2025] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis
+**Kunyu Zhang**, Qiang Li, Shujian Yu  
+[[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)
+
+We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
+
+### [arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning  
+**Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
+[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)
+
+We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
+
+## Contact
+
+- **Email**: kunyu.zky@gmail.com
+- **GitHub**: [@zky04](https://github.com/zky04)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=Ep5vttEAAAAJ)
+- **Homepage**: [zky04.github.io](https://zky04.github.io/)
+
+## Website Technology
+
+This personal academic homepage is built with Jekyll and hosted on GitHub Pages. The website features:
+
+- Responsive design optimized for academic content
+- Automatic citation tracking integration
+- Modern styling with emoji-enhanced sections
+- Mobile-friendly navigation and layout
+
+## Acknowledgments
+
+This website is built upon the excellent work of:
+- [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template
+- [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) (MIT License)
+- [Academic Pages](https://github.com/academicpages/academicpages.github.io) (MIT License)
+- Font Awesome icons (SIL OFL 1.1 and MIT License)
