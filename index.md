@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
-- **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](http://arxiv.org/abs/2507.02847) has been accepted by MICCAI 2025!
+- **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
 
 # 👨‍🔬 About Me
 I am an aspiring researcher passionate about harnessing deep learning to drive innovation in healthcare and medicine. My work focuses on applying deep learning to address complex medical challenges and improve patient outcomes.
@@ -21,7 +21,7 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
-[[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)  
+[[Paper]](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) [[Code]](https://github.com/zky04/MvHo-IB)  
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 

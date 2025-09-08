@@ -36,7 +36,7 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 
 ### [MICCAI 2025] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
-[[Paper]](http://arxiv.org/abs/2507.02847) [[Code]](https://github.com/zky04/MvHo-IB)
+[[Paper]](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) [[Code]](https://github.com/zky04/MvHo-IB)
 
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
