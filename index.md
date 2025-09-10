@@ -26,6 +26,11 @@ We address label noise in medical image datasets caused by clinical expert uncer
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
+**[NN] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189#absh001)  
+Zijian Li, Boyuan Li, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
+We propose a resource-aware adaptive model customization mechanism that mixes synchronous edge feature extraction with asynchronous global classifier updates, achieving faster convergence, higher accuracy, and lower network traffic.
+
 # 🔬 Research Interests
 - **AI in Biomedicine**:  Applying artificial intelligence across biomedical domains, including but not limited to neuroscience, medical imaging, clinical diagnosis, and prognosis
 
