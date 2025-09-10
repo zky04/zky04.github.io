@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
-- **[2025.8]** 🎉 Our paper has been accepted by Neural Networks journal on August 25, 2025! [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189#absh001)
+- **[2025.8]** 🎉 Our paper has been accepted by Neural Networks journal on August 25, 2025! [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
 
 # 👨‍🔬 About Me
@@ -26,8 +26,8 @@ We address label noise in medical image datasets caused by clinical expert uncer
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
-**[NN] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189#absh001)  
+**[Neural Networks] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)  
 Zijian Li, Boyuan Li, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
 We propose a resource-aware adaptive model customization mechanism that mixes synchronous edge feature extraction with asynchronous global classifier updates, achieving faster convergence, higher accuracy, and lower network traffic.
 
