@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
-- **[2025.8]** 🎉 Our paper has been accepted by Neural Networks journal on August 25, 2025! [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)
+- **[2025.8]** 🎉 Our paper [Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy](https://www.sciencedirect.com/science/article/pii/S0893608025009189) has been accepted by Neural Networks!
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
 
 # 👨‍🔬 About Me
