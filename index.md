@@ -32,9 +32,9 @@ We address label noise in medical image datasets caused by clinical expert uncer
 Zijian Li, Boyuan Li, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
 We propose a resource-aware adaptive model customization mechanism that mixes synchronous edge feature extraction with asynchronous global classifier updates, achieving faster convergence, higher accuracy, and lower network traffic.
 
-**[TIA] Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology**
-[[Paper]](https://ieeexplore.ieee.org/document/11196024)
-Fashun Shi, Lin Cheng, Yuguang Song, Pengjie Zhao, Yufei Xi, **Kunyu Zhang**, Haiwang Zhong
+**[TIA] Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology**  
+[[Paper]](https://ieeexplore.ieee.org/document/11196024)  
+Fashun Shi, Lin Cheng, Yuguang Song, Pengjie Zhao, Yufei Xi, **Kunyu Zhang**, Haiwang Zhong  
 We propose a peer-to-peer (P2P) electricity-carbon joint trading method based on multi-agent ethical enhancement technology that combines safe reinforcement learning with a privacy protection module, achieving low-carbon economic operation for multi-microgrids while adhering to "do-no-harm" and "privacy protection" ethical principles.
 
 # 🔬 Research Interests
