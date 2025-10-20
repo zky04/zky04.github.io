@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
-- **[2025.9]** 🎉 Our paper [Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology](https://ieeexplore.ieee.org/document/11196024) has been accepted by IEEE Transactions on Industry Applications!
+- **[2025.9]** 🎉 Our paper [Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology](https://ieeexplore.ieee.org/abstract/document/11196024/) has been accepted by IEEE Transactions on Industry Applications!
 - **[2025.8]** 🎉 Our paper [Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy](https://www.sciencedirect.com/science/article/pii/S0893608025009189) has been accepted by Neural Networks!
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
 
@@ -33,7 +33,7 @@ Zijian Li, Boyuan Li, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinq
 We propose a resource-aware adaptive model customization mechanism that mixes synchronous edge feature extraction with asynchronous global classifier updates, achieving faster convergence, higher accuracy, and lower network traffic.
 
 **[TIA] Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology**  
-[[Paper]](https://ieeexplore.ieee.org/document/11196024)  
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11196024/)  
 Fashun Shi, Lin Cheng, Yuguang Song, Pengjie Zhao, Yufei Xi, **Kunyu Zhang**, Haiwang Zhong  
 We propose a peer-to-peer (P2P) electricity-carbon joint trading method based on multi-agent ethical enhancement technology that combines safe reinforcement learning with a privacy protection module, achieving low-carbon economic operation for multi-microgrids while adhering to "do-no-harm" and "privacy protection" ethical principles.
 
