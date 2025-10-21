@@ -29,7 +29,7 @@ We propose a novel method to capture higher-order interactions while using infor
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[arXiv] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
-[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://anonymous.4open.science/r/Protomol-3DD1)  
+[[Paper]](https://arxiv.org/pdf/2510.16824)  
 Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
