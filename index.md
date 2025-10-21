@@ -30,13 +30,12 @@ We address label noise in medical image datasets caused by clinical expert uncer
 
 **[arXiv] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
 [[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://anonymous.4open.science/r/Protomol-3DD1)  
-**Yingxu Wang**\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal <br>
-\* Equal contribution
+Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
 **[Neural Networks] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)  
-Zijian Li, Boyuan Li, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
+Zijian Li\*, Boyuan Li\*, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
 We propose a resource-aware adaptive model customization mechanism that mixes synchronous edge feature extraction with asynchronous global classifier updates, achieving faster convergence, higher accuracy, and lower network traffic.
 
 **[TIA] Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology**  
