@@ -16,6 +16,7 @@ I am an aspiring researcher passionate about harnessing deep learning to drive i
 Currently, I am exploring a range of AI applications in healthcare, including medical image analysis, clinical decision support systems, and predictive modeling for disease diagnosis and treatment. Beyond medicine, I am also committed to developing flexible, efficient, and generalizable deep learning methodologies applicable across diverse scientific domains.
 
 # 📚 Publications
+\* Equal contribution
 
 **[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
 [[Paper]](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) [[Code]](https://github.com/zky04/MvHo-IB)  
@@ -26,6 +27,12 @@ We propose a novel method to capture higher-order interactions while using infor
 [[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)  
 **Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
+
+**[arXiv] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
+[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://anonymous.4open.science/r/Protomol-3DD1)  
+**Yingxu Wang**\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal <br>
+\* Equal contribution
+We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
 **[Neural Networks] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)  
