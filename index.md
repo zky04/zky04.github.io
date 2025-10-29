@@ -24,15 +24,15 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
-**[arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning**  
-[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)  
-**Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
-We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
-
 **[Briefings in Bioinformatics] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
 [[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://github.com/zky04/Protomol)
 Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
+
+**[arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning**  
+[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)  
+**Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
+We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[Neural Networks] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)  
