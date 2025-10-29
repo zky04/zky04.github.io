@@ -25,7 +25,7 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
 **[Briefings in Bioinformatics] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
-[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://github.com/zky04/Protomol)
+[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://github.com/zky04/Protomol) 
 Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
