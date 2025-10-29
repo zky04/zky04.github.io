@@ -6,6 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
+- **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://arxiv.org/pdf/2510.16824) has been accepted by Briefings in Bioinformatics!
 - **[2025.9]** 🎉 Our paper [Multi-microgrids Peer to Peer Electricity-carbon joint Trading Method Based on Multi-agent Ethical Enhancement Technology](https://ieeexplore.ieee.org/abstract/document/11196024/) has been accepted by IEEE Transactions on Industry Applications!
 - **[2025.8]** 🎉 Our paper [Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy](https://www.sciencedirect.com/science/article/pii/S0893608025009189) has been accepted by Neural Networks!
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
@@ -28,8 +29,8 @@ We propose a novel method to capture higher-order interactions while using infor
 **Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
-**[arXiv] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
-[[Paper]](https://arxiv.org/pdf/2510.16824)  
+**[Briefings in Bioinformatics] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
+[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://github.com/zky04/Protomol)
 Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
