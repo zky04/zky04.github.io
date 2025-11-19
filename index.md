@@ -35,7 +35,7 @@ We propose ProtoMol, a prototype-guided multimodal framework that hierarchically
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
 **[arXiv] EVA-Net: Interpretable Brain Age Prediction via Continuous Aging Prototypes from EEG**  
-[[Paper]](https://github.com/zky04) [[Code]](https://github.com/zky04)  
+[[Paper]](https://github.com/zky04) [[Code]](https://github.com/zky04/EVA-Net)  
 **Kunyu Zhang**, Mingxuan Wang, Xiangjie Shi, Haoxing Xu, Chao Zhang  
 We propose EVA-Net to capture multi-scale temporal dependencies in long EEG sequences while leveraging a variational information bottleneck and continuous prototype alignment to learn an interpretable healthy manifold for brain health anomaly detection.
 
