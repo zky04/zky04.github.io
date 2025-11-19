@@ -34,6 +34,11 @@ We propose ProtoMol, a prototype-guided multimodal framework that hierarchically
 **Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
 We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
 
+**[arXiv] EVA-Net: Interpretable Brain Age Prediction via Continuous Aging Prototypes from EEG**  
+[[Paper]](https://github.com/zky04) [[Code]](https://github.com/zky04)  
+**Kunyu Zhang**, Mingxuan Wang, Xiangjie Shi, Haoxing Xu, Chao Zhang  
+We propose EVA-Net to capture multi-scale temporal dependencies in long EEG sequences while leveraging a variational information bottleneck and continuous prototype alignment to learn an interpretable healthy manifold for brain health anomaly detection.
+
 **[Neural Networks] Heterogeneity-aware high-efficiency federated learning with hybrid synchronous-asynchronous splitting strategy**  
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025009189)  
 Zijian Li\*, Boyuan Li\*, **Kunyu Zhang**, Bingcai Wei, Hongbo Liu, Zihan Chen, Xinqiang Xie, Tony Q.S. Quek  
