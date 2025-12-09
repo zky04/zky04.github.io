@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 🔥 News
-- **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://arxiv.org/pdf/2510.16824) has been accepted by Briefings in Bioinformatics!
+- **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) has been accepted by Briefings in Bioinformatics!
 
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
 
@@ -24,7 +24,7 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
 **[Briefings in Bioinformatics] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning**  
-[[Paper]](https://arxiv.org/pdf/2510.16824) [[Code]](https://github.com/zky04/Protomol)  
+[[Paper]](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) [[Code]](https://github.com/zky04/Protomol)  
 Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
 We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
