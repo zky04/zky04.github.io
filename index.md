@@ -6,6 +6,8 @@ permalink: /
 ---
 
 # 🔥 News
+- **[2026.5]** 🎉 Congratulations! Our paper [USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation](https://arxiv.org/pdf/2602.08431) has been accepted by KDD 2026!
+
 - **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) has been accepted by Briefings in Bioinformatics!
 
 - **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
@@ -17,6 +19,11 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 
 # 📚 Publications
 \* Equal contribution
+
+**[KDD 26] USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation**  
+[[Paper]](https://arxiv.org/pdf/2602.08431)  
+Yingxu Wang\*, **Kunyu Zhang**\*, Mengzhu Wang, Siyang Gao, Nan Yin  
+We propose USBD, a source-free graph domain adaptation framework that distills source graphs into a compact universal structural basis spanning diverse topological patterns, then uses a spectral-aware ensemble to improve adaptation under severe structural shifts.
 
 **[MICCAI 25] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis**  
 [[Paper]](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) [[Code]](https://github.com/zky04/MvHo-IB)  
