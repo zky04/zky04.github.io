@@ -3,9 +3,14 @@ name: Sync Reminder
 on:
   push:
     paths:
-      - '_pages/about.md'
+      - 'index.md'
+      - '_pages/about.html'
       - '_config.yml'
       - '_publications/*.md'
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   sync-reminder:
@@ -16,26 +21,53 @@ jobs:
         with:
           script: |
             const title = '🔄 Sync Reminder: Update README.md';
+            const commits = context.payload.commits || [];
+            const changedFiles = new Map();
+
+            for (const commit of commits) {
+              for (const file of commit.added || []) changedFiles.set(file, 'added');
+              for (const file of commit.modified || []) changedFiles.set(file, 'modified');
+              for (const file of commit.removed || []) changedFiles.set(file, 'removed');
+            }
+
+            const fileList = changedFiles.size
+              ? Array.from(changedFiles, ([file, status]) => `- ${file} (${status})`).join('\n')
+              : '- No changed file list available in the push payload';
+
+            const headCommit = context.payload.head_commit || {};
+            const commitMessage = headCommit.message || context.sha;
             const body = `
             ## Files Changed
             The following key files have been updated and may require README.md synchronization:
-            
-            ${{ github.event.head_commit.modified.join('\n- ') }}
-            
+
+            ${fileList}
+
             ## Action Required
             Please review and update README.md to match any changes in:
             - Personal description
-            - Research interests  
+            - Research interests
             - Publications
             - Contact information
-            
-            **Modified in commit:** ${{ github.event.head_commit.message }}
+
+            **Modified in commit:** ${commitMessage}
             `;
-            
-            github.rest.issues.create({
+
+            const issue = {
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: title,
               body: body,
-              labels: ['sync', 'documentation']
-            });
+            };
+
+            try {
+              await github.rest.issues.create({
+                ...issue,
+                labels: ['sync', 'documentation'],
+              });
+            } catch (error) {
+              if (error.status !== 422) {
+                throw error;
+              }
+
+              await github.rest.issues.create(issue);
+            }
