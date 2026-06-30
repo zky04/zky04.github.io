@@ -18,6 +18,16 @@ Kunyu Zhang
     <strong><a href="https://zky04.github.io/">🌐 Visit My Homepage</a></strong>
 </p>
 
+## News
+
+- **[2026.6]** 🎉 Congratulations! Our paper [BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis](https://arxiv.org/pdf/2606.29200) has been accepted by ECCV 2026!
+
+- **[2026.5]** 🎉 Congratulations! Our paper [USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation](https://arxiv.org/pdf/2602.08431) has been accepted by KDD 2026!
+
+- **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) has been accepted by Briefings in Bioinformatics!
+
+- **[2025.6]** 🎉 Our paper [MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) has been accepted by MICCAI 2025!
+
 ## About Me
 
 I am an aspiring researcher passionate about harnessing deep learning to drive innovation in healthcare and medicine. My work focuses on applying deep learning to address complex medical challenges and improve patient outcomes.
@@ -34,17 +44,31 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 
 ## Publications
 
+\* Equal contribution
+
+### [ECCV 2026] BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis
+**Kunyu Zhang**\*, Tianxiang Xu\*  
+[[Paper]](https://arxiv.org/pdf/2606.29200)
+
+We propose BrainRiem, a source-free domain adaptation framework that learns compact Riemannian brain prototypes via manifold-aware bi-level optimization for privacy-preserving cross-site brain network diagnosis under scanner and demographic shifts.
+
+### [KDD 2026] USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation
+Yingxu Wang\*, **Kunyu Zhang**\*, Mengzhu Wang, Siyang Gao, Nan Yin  
+[[Paper]](https://arxiv.org/pdf/2602.08431)
+
+We propose USBD, a source-free graph domain adaptation framework that distills source graphs into a compact universal structural basis spanning diverse topological patterns, then uses a spectral-aware ensemble to improve adaptation under severe structural shifts.
+
 ### [MICCAI 2025] MvHo-IB: Multi-View High-Order Information Bottleneck for Brain Disorder Diagnosis
 **Kunyu Zhang**, Qiang Li, Shujian Yu  
 [[Paper]](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) [[Code]](https://github.com/zky04/MvHo-IB)
 
 We propose a novel method to capture higher-order interactions while using information bottleneck to reduce redundancy between multi-view information for brain disorder diagnosis.
 
-### [arXiv] Clinical Expert Uncertainty Guided Generalized Label Smoothing for Medical Noisy Label Learning  
-**Kunyu Zhang**, Lin Gu, Liangchen Liu, Yingke Chen, Bingyang Wang, Jin Yan, Yingying Zhu  
-[[Paper]](https://arxiv.org/pdf/2508.02495) [[Code]](https://github.com/zky04/Medical-Noisy-Label-Dataset)
+### [Briefings in Bioinformatics] ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning
+Yingxu Wang\*, **Kunyu Zhang**\*, Jiaxin Huang, Nan Yin, Siwei Liu, Eran Segal  
+[[Paper]](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) [[Code]](https://github.com/zky04/Protomol)
 
-We address label noise in medical image datasets caused by clinical expert uncertainty in diagnostic notes. We propose a clinical expert uncertainty-aware benchmark and a label smoothing method that significantly outperforms current approaches.
+We propose ProtoMol, a prototype-guided multimodal framework that hierarchically aligns molecular graphs and textual descriptions via layer-wise cross-modal attention and a shared prototype space, consistently outperforming prior methods on molecular property prediction while improving interpretability.
 
 ## Contact
 
