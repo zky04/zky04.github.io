@@ -6,6 +6,8 @@ permalink: /
 ---
 
 # 🔥 News
+- **[2026.6]** 🎉 Congratulations! Our paper [BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis](https://arxiv.org/pdf/2606.29200) has been accepted by ECCV 2026!
+
 - **[2026.5]** 🎉 Congratulations! Our paper [USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation](https://arxiv.org/pdf/2602.08431) has been accepted by KDD 2026!
 
 - **[2025.10]** 🎉 Our paper [ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](https://academic.oup.com/bib/article/26/6/bbaf629/8374029) has been accepted by Briefings in Bioinformatics!
@@ -19,6 +21,11 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 
 # 📚 Publications
 \* Equal contribution
+
+**[ECCV 26] BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis**  
+[[Paper]](https://arxiv.org/pdf/2606.29200)  
+**Kunyu Zhang**\*, Tianxiang Xu\*  
+We propose BrainRiem, a source-free domain adaptation framework that learns compact Riemannian brain prototypes via manifold-aware bi-level optimization for privacy-preserving cross-site brain network diagnosis under scanner and demographic shifts.
 
 **[KDD 26] USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation**  
 [[Paper]](https://arxiv.org/pdf/2602.08431)  
