@@ -20,7 +20,7 @@ Kunyu Zhang
 
 ## News
 
-- **[2026.6]** 🎉 Congratulations! Our paper [BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis](https://arxiv.org/pdf/2606.29200) has been accepted by ECCV 2026!
+- **[2026.6]** 🎉 Congratulations! Our paper [BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9575.pdf) has been accepted by ECCV 2026!
 
 - **[2026.5]** 🎉 Congratulations! Our paper [USBD: Universal Structural Basis Distillation for Source-Free Graph Domain Adaptation](https://arxiv.org/pdf/2602.08431) has been accepted by KDD 2026!
 
@@ -48,7 +48,7 @@ Currently, I am exploring a range of AI applications in healthcare, including me
 
 ### [ECCV 2026] BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis
 **Kunyu Zhang**\*, Tianxiang Xu\*  
-[[Paper]](https://arxiv.org/pdf/2606.29200)
+[[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9575.pdf)
 
 We propose BrainRiem, a source-free domain adaptation framework that learns compact Riemannian brain prototypes via manifold-aware bi-level optimization for privacy-preserving cross-site brain network diagnosis under scanner and demographic shifts.
 
